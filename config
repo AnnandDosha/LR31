@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "LR_31"]
+	url = https://github.com/AnnandDosha/LR_31.git
+	fetch = +refs/heads/*:refs/remotes/LR_31/*
+[gui]
+	wmstate = normal
+	geometry = 893x435+723+238 175 196
+[remote "origin"]
+	url = https://github.com/AnnandDosha/LR_31.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\занятия с Саньком\LR_31\LR_31\bin\Debug\LR_31.exe.config
+C:\Users\User\Desktop\занятия с Саньком\LR_31\LR_31\bin\Debug\LR_31.exe
+C:\Users\User\Desktop\занятия с Саньком\LR_31\LR_31\bin\Debug\LR_31.pdb
+C:\Users\User\Desktop\занятия с Саньком\LR_31\LR_31\obj\Debug\LR_31.csprojAssemblyReference.cache
+C:\Users\User\Desktop\занятия с Саньком\LR_31\LR_31\obj\Debug\LR_31.MainForm.resources
+C:\Users\User\Desktop\занятия с Саньком\LR_31\LR_31\obj\Debug\LR_31.Properties.Resources.resources
+C:\Users\User\Desktop\занятия с Саньком\LR_31\LR_31\obj\Debug\LR_31.csproj.GenerateResource.cache
+C:\Users\User\Desktop\занятия с Саньком\LR_31\LR_31\obj\Debug\LR_31.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\занятия с Саньком\LR_31\LR_31\obj\Debug\LR_31.exe
+C:\Users\User\Desktop\занятия с Саньком\LR_31\LR_31\obj\Debug\LR_31.pdb
+C:\Users\User\Desktop\занятия с Саньком\LR_31\LR_31\obj\Debug\LR_31.SampleForm.resources
+C:\Users\User\Desktop\занятия с Саньком\LR_31\LR_31\obj\Debug\LR_31.ChromakeyForm.resources
+C:\Users\User\Desktop\занятия с Саньком\LR_31\LR_31\obj\Debug\LR_31.AuthorizationForm.resources
